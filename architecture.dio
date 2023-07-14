@@ -1,0 +1,122 @@
+<mxfile host="65bd71144e">
+    <diagram id="rMNkJ6eo6Ke2yysjOUw3" name="Base">
+        <mxGraphModel dx="1074" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="Home App (1.0.0)" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+                    <mxGeometry x="110" y="80" width="170" height="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Header" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="135" y="150" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Footer" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="135" y="280" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="mfea App (1.0.0)" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+                    <mxGeometry x="440" y="80" width="170" height="280" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="yFL8RzkSNo4p66ndgj9H" name="with-npm">
+        <mxGraphModel dx="844" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="5kckAsXhMKEArCiIwpoo-5" value="mfea App (1.0.1)" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+                    <mxGeometry x="340" y="280" width="170" height="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="5kckAsXhMKEArCiIwpoo-7" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5kckAsXhMKEArCiIwpoo-1" target="5kckAsXhMKEArCiIwpoo-5">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5kckAsXhMKEArCiIwpoo-1" value="Home App (1.0.1)" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="80" width="170" height="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="5kckAsXhMKEArCiIwpoo-2" value="Header" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="365" y="330" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="5kckAsXhMKEArCiIwpoo-3" value="Footer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="366" y="450" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="5kckAsXhMKEArCiIwpoo-8" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5kckAsXhMKEArCiIwpoo-4" target="5kckAsXhMKEArCiIwpoo-5">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5kckAsXhMKEArCiIwpoo-4" value="mfea App (1.0.1)" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+                    <mxGeometry x="590" y="80" width="170" height="280" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="d8cM178n5hHj48yKjCRr" name="CustomApp">
+        <mxGraphModel dx="1125" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="Ol-8CUY2gP5pU_BuwQaG-7" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ol-8CUY2gP5pU_BuwQaG-5" target="Ol-8CUY2gP5pU_BuwQaG-6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="Ol-8CUY2gP5pU_BuwQaG-5" value="Header/Footer/Component&amp;nbsp;&lt;br&gt;Project" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+                    <mxGeometry x="350" y="50" width="170" height="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="Ol-8CUY2gP5pU_BuwQaG-11" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ol-8CUY2gP5pU_BuwQaG-1" target="Ol-8CUY2gP5pU_BuwQaG-8">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="370" y="580" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Ol-8CUY2gP5pU_BuwQaG-1" value="Home App (1.0.0)" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="370" width="170" height="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="Ol-8CUY2gP5pU_BuwQaG-2" value="Header" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="375" y="110" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Ol-8CUY2gP5pU_BuwQaG-3" value="Footer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="375" y="230" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Ol-8CUY2gP5pU_BuwQaG-10" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ol-8CUY2gP5pU_BuwQaG-4" target="Ol-8CUY2gP5pU_BuwQaG-8">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="Ol-8CUY2gP5pU_BuwQaG-4" value="mfea App (1.0.0)" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+                    <mxGeometry x="630" y="370" width="170" height="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="Ol-8CUY2gP5pU_BuwQaG-9" style="edgeStyle=orthogonalEdgeStyle;html=1;" edge="1" parent="1" source="Ol-8CUY2gP5pU_BuwQaG-6" target="Ol-8CUY2gP5pU_BuwQaG-8">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="Ol-8CUY2gP5pU_BuwQaG-6" value="S3 Artifact" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="375" y="390" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Ol-8CUY2gP5pU_BuwQaG-8" value="Shim Library" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="375" y="550" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="qFQKJ2me-mXUJ1h9Rza5" name="Module Federation">
+        <mxGraphModel dx="1074" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="HQhBUd-mLxH39jZZuDSB-1" value="Home App (1.0.1)" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+                    <mxGeometry x="110" y="80" width="170" height="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="HQhBUd-mLxH39jZZuDSB-2" value="Header" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="135" y="150" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="HQhBUd-mLxH39jZZuDSB-3" value="Footer" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="135" y="280" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="HQhBUd-mLxH39jZZuDSB-5" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="HQhBUd-mLxH39jZZuDSB-4" target="HQhBUd-mLxH39jZZuDSB-2" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="HQhBUd-mLxH39jZZuDSB-6" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="HQhBUd-mLxH39jZZuDSB-4" target="HQhBUd-mLxH39jZZuDSB-3" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="430" y="280" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="HQhBUd-mLxH39jZZuDSB-4" value="mfea App (1.0.0)" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+                    <mxGeometry x="440" y="80" width="170" height="280" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
