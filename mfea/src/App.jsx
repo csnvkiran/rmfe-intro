@@ -11,9 +11,7 @@ const App = () => {
   //const [showHeader, setShowHeader] = useState(false);
   return (
     <div className="text-3xl mx-auto max-w-6xl">
-      <SafeComponent>
-        <Header />
-      </SafeComponent>
+      <Header />
       <div className="mt-10">
         micro frontend Page Content
         <div>Name: mfea</div>

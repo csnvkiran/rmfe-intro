@@ -1,0 +1,19 @@
+import { Controller, Get, Param } from '@nestjs/common';
+
+import products, { Product } from '../../products';
+import { get } from 'http';
+
+@Controller('products')
+export class productsController {
+  constructor() {}
+
+  @Get()
+  async index(): Promise<Product[]> {
+    return products;
+  }
+
+  @Get(':id')
+  async show(@Param('id') id: string): Promise<Product> {
+    return products.find((prod) => prod.id == parseInt(id));
+  }
+}
